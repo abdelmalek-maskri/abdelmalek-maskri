@@ -1,9 +1,9 @@
-# Hi, I'm Abdelmalek Maskri! 👋
+# Hi, I'm Abdelmalek Maskri! 👋🏻
 
-🎓 Final-year **MSci Computer Science** student at the **University of Birmingham**, graduating June 2025, ranked in the **top 4** of my cohort.  
-💻 Passionate about **Artificial Intelligence**, **Software Engineering**, and **Full-Stack Development**.  
-📚 Holder of multiple academic scholarships, including the **Excellence Scholarship** and the **CS International Achievement Scholarship**.  
-🌐 Check out my [Portfolio Website](https://abdelmalek-maskri.netlify.app) and [LinkedIn Profile](https://www.linkedin.com/in/abdelmalek-maskri-a43670237/).
+⭐ Final-year **MSci Computer Science** student at the **University of Birmingham**, graduating June 2025, ranked in the **top 4** of my cohort.  
+⭐ Passionate about **Artificial Intelligence**, **Software Engineering**, **Quantitative Finance** and **Full-Stack Development**.  
+⭐ Holder of multiple academic scholarships, including the **Excellence Scholarship** and the **CS International Achievement Scholarship**.  
+⭐ Check out my [Portfolio Website](https://abdelmalek-maskri.netlify.app) and [LinkedIn Profile](https://www.linkedin.com/in/abdelmalek-maskri-a43670237/).
 
 ---
 
