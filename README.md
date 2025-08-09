@@ -53,11 +53,11 @@ React, Firebase, Tailwind CSS
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Summary Card
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelmalek-maskri&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelmalek-maskri&layout=compact&theme=radical)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdelmalek-maskri&theme=onedark)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdelmalek-maskri&theme=radical)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdelmalek-maskri&theme=radical)
+![Commits Per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdelmalek-maskri&theme=radical&utcOffset=0)
 
 ---
 
